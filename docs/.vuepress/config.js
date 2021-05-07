@@ -1,5 +1,6 @@
 // .vuepress/config.js
 module.exports = {
+  title: "编程学院 - ChangeLogs",
   head: [
     ['link', { rel: 'icon', href: `http://programschool.com/assets/images/logo.svg` }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
